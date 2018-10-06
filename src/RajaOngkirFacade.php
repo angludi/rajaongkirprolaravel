@@ -1,6 +1,6 @@
 <?php
 
-namespace rizalafani\rajaongkirlaravel;
+namespace angludi\rajaongkirprolaravel;
 
 use Illuminate\Support\Facades\Facade;
 
