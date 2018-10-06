@@ -1,6 +1,6 @@
 # rajaongkir API For Laravel 5
 
-API ini digunakan hanya untuk type akun Pro
+API ini digunakan **HANYA** untuk type akun **PRO**
 
 **Instalasi**
 
@@ -142,6 +142,7 @@ $data = RajaOngkir::Kecamatan()->byKota($kota_id)->count();
 Ambil data kecamatan berdasarkan nama kecamatan di suatu kota
 ```php
 $data = RajaOngkir::Kota()->byKota($kota_id)->search('subdistrict_name', $name)->get();
+```
 
 Ambil Biaya Pengiriman
 ```php
