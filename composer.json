@@ -1,0 +1,23 @@
+{
+    "name": "angludi/rajaongkirprolaravel",
+    "description": "Raja Ongkir API Pro Laravel 5.x. Based on rizalafani/rajaongkirlaravel",
+    "keywords": [
+        "rajaongkirpro", "application programming interface", "laravel"
+    ],
+    "license": "MIT",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Aang Ludi",
+            "email": "ang.ludi@gmail.com"
+        }
+    ],
+    "autoload": {
+    	"psr-4": {
+    		"angludi\\rajaongkirprolaravel\\": "src/"
+    	}
+    },
+    "require": {
+    	"illuminate/support": "~5"
+    }
+}
