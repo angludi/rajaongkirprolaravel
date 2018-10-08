@@ -157,4 +157,4 @@ $data = RajaOngkir::Cost([
 
 Kunjungi [rajaongkir](http://rajaongkir.com/)
 
-Documentasi akun [starter](http://rajaongkir.com/dokumentasi/starter)
+Documentasi akun [PRO](http://rajaongkir.com/dokumentasi/pro)
